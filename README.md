@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rzat
 - 👀 I’m interested in Machine Learning and Deep learning algorithms
-- 🌱 I’m currently pursuing my Masters in Data Analytics
+- 🌱 I’m currently working as a Software Developer
 - 💞️ I’m looking to collaborate on Deep learning projects
 - 📫 How to reach me rajatthakur00@gmail.com
 
